@@ -1,2 +1,1 @@
-# -
-一次数据库课程设计
+just a design for Imagnet2012
